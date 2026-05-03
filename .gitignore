@@ -11,3 +11,4 @@ train/
 test/
 valid/
 runs/
+.history/

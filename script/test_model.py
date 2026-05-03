@@ -2,7 +2,7 @@ from ultralytics import YOLO
 
 # 1. Memuat model yang baru saja selesai dilatih
 # Pastikan path ini sesuai dengan lokasi file best.pt di laptop Anda
-model = YOLO(r"runs\detect\Aksara_Rejang\training_v2_lanjutan\weights\best.pt")
+model = YOLO("models/best.pt")
 
 # 2. Tentukan gambar yang mau dites
 # Ganti nama file ini dengan salah satu gambar yang ada di folder 'test\images'
