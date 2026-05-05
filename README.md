@@ -255,8 +255,6 @@ Dataset yang digunakan dilisensikan di bawah **CC BY 4.0** oleh kontributor di R
 - **novalrizkiansyah** atas kontribusi dataset Aksara Ulu Rejang di Roboflow Universe.
 - Seluruh komunitas yang telah berkontribusi dalam pelestarian Aksara Ulu Rejang.
 
----
-
 <div align="center">
 
 </div>
