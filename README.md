@@ -259,6 +259,4 @@ Dataset yang digunakan dilisensikan di bawah **CC BY 4.0** oleh kontributor di R
 
 <div align="center">
 
-Dibuat dengan ❤️ untuk pelestarian budaya Aksara Ulu Rejang 🇮🇩
-
 </div>
