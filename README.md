@@ -1,4 +1,4 @@
-# 🔍 Sistem Deteksi Objek Aksara Ulu Rejang Berbasis YOLOv11
+#  Sistem Deteksi Objek Aksara Ulu Rejang Berbasis YOLOv11
 
 <div align="center">
 
