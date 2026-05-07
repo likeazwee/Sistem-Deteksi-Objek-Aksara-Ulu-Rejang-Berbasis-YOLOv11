@@ -93,7 +93,7 @@ Sistem ini dilatih menggunakan dataset dari Roboflow Universe dan dijalankan seb
 ```
 Sistem-Deteksi-Objek-Aksara-Ulu-Rejang-Berbasis-YOLOv11/
 │
-├── assets/                   # 🖼️ Gambar hasil pelatihan & demo aplikasi
+├── assets/                   #    Gambar hasil pelatihan & demo aplikasi
 │   ├── results.png           #    Kurva training (loss, mAP, precision, recall)
 │   ├── confusion_matrix.png  #    Confusion matrix
 │   ├── PR_curve.png          #    Precision-Recall curve
